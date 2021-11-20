@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "681827041302",
+    "project_id": "interview-test-f9eb0",
+    "storage_bucket": "interview-test-f9eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681827041302:android:15f55c1e54505f502eb537",
+        "android_client_info": {
+          "package_name": "com.ranula.interview_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681827041302-n24igmt1tlieu6den1itgt5ugnstsm6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG_aHeRFXj1BkhuPs-9DqkmrsRy6WN61E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681827041302-n24igmt1tlieu6den1itgt5ugnstsm6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
