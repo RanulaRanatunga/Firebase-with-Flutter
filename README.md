@@ -1,4 +1,4 @@
-# Firebase Authentgication and country list view and google maps intergration with flutter
+# Firebase Authentication and country list view and google maps intergration with flutter
 
 Practical Test
 
